@@ -1,0 +1,6 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(244, 164, 247);
+  align-items: stretch;
+  }
